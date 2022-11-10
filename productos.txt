@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Vestido",
+		"price": 5500,
+		"thumbnail": "http://vestido.../images/",
+		"id": 1
+	},
+	{
+		"title": "Camisa",
+		"price": 2550,
+		"thumbnail": "http://camisa.../images/",
+		"id": 2
+	},
+	{
+		"title": "Remera",
+		"price": 1500,
+		"thumbnail": "http://remera.../images/",
+		"id": 3
+	}
+]
